@@ -7,3 +7,7 @@ To run the program:
 Open project on NetBeans and run "Main.java". You can create an account as a patient and/or doctor and log into both portals. The password for the admin portal is "12345".
 
 All work completed on local repository and pushed on to GitHub after.
+
+
+Watch Demo:
+https://drive.google.com/file/d/1J1fH8_4egNKEDYZME4GBefbYVmmcNhYp/view?usp=sharing
